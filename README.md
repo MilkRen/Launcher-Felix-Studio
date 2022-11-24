@@ -9,7 +9,12 @@
 
 Написан: летом 22 
 
+# Screenshot
+<p align="center">
+<img src="https://raw.githubusercontent.com/MilkRen/Launcher-Felix-Studio/master/img_github/Screenshot1.png"></p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/MilkRen/Launcher-Felix-Studio/master/img_github/Screenshot2.png"></p>
 
 ### <p align="center">Видео на YT https://www.youtube.com/watch?v=EzxscndCL1A </p>
 
